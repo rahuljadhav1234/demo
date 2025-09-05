@@ -14,6 +14,5 @@ public class OddEvenCheck {
             System.out.println(number + " is Odd");
         }
 
-        scanner.close();
     }
 }
